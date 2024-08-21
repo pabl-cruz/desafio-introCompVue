@@ -1,6 +1,6 @@
 # desafio-introCompVue
 
-This template should help get you started developing with Vue 3 in Vite.
+Desafio evaluado de introduccion a componentes Web en Vue.js e interpolacion de variables. 
 
 ## Recommended IDE Setup
 
